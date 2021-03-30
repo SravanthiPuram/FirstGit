@@ -1,3 +1,4 @@
 this is my first file in git
+this is to check the git connection
 this is my second line in first file
 this is to verify the SSH 
